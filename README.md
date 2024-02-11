@@ -37,6 +37,7 @@
 ![Trabajo en equipo Badge](https://img.shields.io/badge/Team-white?style=flat)
 ![Resolución de problemas Badge](https://img.shields.io/badge/Resolución%20de%20problemas-white?style=flat)
 ![Android Studio Badge](https://img.shields.io/badge/Resolución%20de%20problemas-white?style=flat)
+![Test Badge](https://img.shields.io/badge/Resolución%20de%20problemas-white?style=flat)
 
 ### 📊 GitHub Analytics
 
