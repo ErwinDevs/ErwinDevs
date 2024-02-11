@@ -22,7 +22,7 @@
 
 - 📧 Correo electrónico: [erwindev98@gmail.com](mailto:erwindev98@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/erwiin21mp](www.linkedin.com/in/erwiin21mp)
-- 📱 Teléfono: +52 414 112 1379
+- 📱 Teléfono: +524141121379
 - 📍 Tequisquiapan, Querétaro
 
 ## 💻 Skills
@@ -31,12 +31,12 @@
 ![UI/UX Badge](https://img.shields.io/badge/UI/UX-white?style=flat&logo=adobe-xd)
 ![POO Badge](https://img.shields.io/badge/POO-white?style=flat&logo=java)
 ![Bases de datos Badge](https://img.shields.io/badge/Bases%20de%20datos-white?style=flat&logo=sqlite)
-![MVC Badge](https://img.shields.io/badge/MVC-white?style=flat)
 ![MVVM Badge](https://img.shields.io/badge/MVVM-white?style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-white?style=flat&logo=git)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-white?style=flat&logo=github)
-![Trabajo en equipo Badge](https://img.shields.io/badge/Trabajo%20en%20equipo-white?style=flat)
+![Trabajo en equipo Badge](https://img.shields.io/badge/Team-white?style=flat)
 ![Resolución de problemas Badge](https://img.shields.io/badge/Resolución%20de%20problemas-white?style=flat)
+![Android Studio Badge](https://img.shields.io/badge/Resolución%20de%20problemas-white?style=flat)
 
 ### 📊 GitHub Analytics
 
