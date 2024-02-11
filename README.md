@@ -30,7 +30,7 @@
 ![Desarrollo Android Badge](https://img.shields.io/badge/Desarrollo%20Android-white?style=flat&logo=android)
 ![UI/UX Badge](https://img.shields.io/badge/UI/UX-white?style=flat&logo=adobe-xd)
 ![POO Badge](https://img.shields.io/badge/POO-white?style=flat&logo=java)
-![Bases de datos Badge](https://img.shields.io/badge/Bases%20de%20datos-white?style=flat&logo=sqlite)
+![Bases de datos Badge](https://img.shields.io/badge/Bases%20De%20Datos-white?style=flat&logo=sqlite)
 ![MVVM Badge](https://img.shields.io/badge/MVVM-white?style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-white?style=flat&logo=git)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-white?style=flat&logo=github)
@@ -38,6 +38,7 @@
 ![Resolución de problemas Badge](https://img.shields.io/badge/Problem%20resolution-white?style=flat)
 ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-white?style=flat)
 ![Test Badge](https://img.shields.io/badge/Test-white?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=flat&logo=firebase)
 
 ### 📊 GitHub Analytics
 
