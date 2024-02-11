@@ -28,24 +28,23 @@
 ## 💻 Skills
 
 ![Desarrollo Android](https://img.shields.io/badge/Desarrollo%20Android-white?style=flat&logo=android)
-![XML](https://img.shields.io/badge/XML-white?style=flat&logo=xml)
-![POO](https://img.shields.io/badge/POO-white?style=flat&logo=poo)
+![XML](https://img.shields.io/badge/XML-white?style=flat&logo=xaml)
+![POO](https://img.shields.io/badge/POO-white?style=flat&logo=pcgamingwiki)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql)
-![MVVM](https://img.shields.io/badge/MVVM-white?style=flat)
+![MVVM](https://img.shields.io/badge/MVVM-white?style=flat&logo=files)
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github)
-![GitFlow](https://img.shields.io/badge/Git%20Flow-white?style=flat&logo=gitflow)
-![Trabajo en equipo](https://img.shields.io/badge/Teamwork-white?style=flat)
-![Resolución de problemas](https://img.shields.io/badge/Problem%20resolution-white?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=000000)
+![GitFlow](https://img.shields.io/badge/Git%20Flow-white?style=flat&logo=github&logoColor=000000)
+![Trabajo en equipo](https://img.shields.io/badge/Teamwork-white?style=flat&logo=discord)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=flat&logo=androidstudio)
 ![Test](https://img.shields.io/badge/Test-white?style=flat&logo=test)
 ![Firebase](https://img.shields.io/badge/Firebase-white?style=flat&logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-white?style=flat&logo=SQLite)
+![SQLite](https://img.shields.io/badge/SQLite-white?style=flat&logo=SQLite&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=000000)
 
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ERwiin21MP">
