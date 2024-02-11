@@ -22,7 +22,7 @@
 
 - 📧 Correo electrónico: [erwindev98@gmail.com](mailto:erwindev98@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/erwiin21mp](www.linkedin.com/in/erwiin21mp)
-- 📱 Teléfono: [+52 414 112 1379]
+- 📱 Teléfono: +52 414 112 1379
 - 📍 Tequisquiapan, Querétaro
 
 ## 💻 Skills
