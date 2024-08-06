@@ -28,6 +28,7 @@
 ## 💻 Skills
 
 ![Desarrollo Android](https://img.shields.io/badge/Desarrollo%20Android-white?style=flat&logo=android)
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Svelte"  alt="Svelte" width="40" height="40"/>&nbsp;
 ![XML](https://img.shields.io/badge/XML-white?style=flat&logo=xaml)
 ![POO](https://img.shields.io/badge/POO-white?style=flat&logo=pcgamingwiki)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql)
