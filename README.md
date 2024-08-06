@@ -27,8 +27,39 @@
 
 ## 💻 Skills
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Stuio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="Json" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="Putty" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Putty" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="Xamarin" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40">
+
 ![Desarrollo Android](https://img.shields.io/badge/Desarrollo%20Android-white?style=flat&logo=android)
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Svelte"  alt="Svelte" width="40" height="40"/>&nbsp;
 ![XML](https://img.shields.io/badge/XML-white?style=flat&logo=xaml)
 ![POO](https://img.shields.io/badge/POO-white?style=flat&logo=pcgamingwiki)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql)
